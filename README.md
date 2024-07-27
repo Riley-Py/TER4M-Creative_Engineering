@@ -7,3 +7,7 @@ This repository houses the following:
 This was for a creative engineering project called "The Videogame Dashboard".
 
 Technologies used: ESP32, Arduino (IDE), C++, LVGL, HTTP/webserver libraries, ESP32 WiFi library, TFT_eSPI library, ILI9486/88 touch screen
+
+https://github.com/user-attachments/assets/31121f82-1c9e-4207-9630-b6bdbe76ab95
+
+
